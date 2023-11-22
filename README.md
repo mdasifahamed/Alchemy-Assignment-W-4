@@ -69,7 +69,7 @@ with the deployed contract address.
 - first deploy the winner contract 
 - Get winner conract address
 - Then Deploy CallerContract
-- Then Call The **CallAttemp**  function  of the **CallerContract* passing **WinnerContract** **Address** as function parameter  
+- Then Call The **CallAttemp**  function  of the **CallerContract** passing **WinnerContract** **Address** as function parameter  
 
 
 ---
@@ -78,4 +78,4 @@ with the deployed contract address.
 
 - **Solidity** For Contract.
 - **Hardhat** For Development Environment.
-- **Chai**, **Ethereum-Waffle**, **Mocha* For Testing
+- **Chai**, **Ethereum-Waffle**, **Mocha** For Testing
